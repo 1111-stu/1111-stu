@@ -16,13 +16,7 @@
 
 
 ## 📊 我的 GitHub 数据
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1111-stu&style=for-the-badge&color=0ea5e9" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/1111-stu?style=for-the-badge&color=22c55e" alt="followers" />
-  <img src="https://img.shields.io/github/stars/1111-stu?style=for-the-badge&color=f59e0b" alt="stars" />
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeanutSplash&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1111-stu&layout=compact)
 
 ---
 
