@@ -7,69 +7,24 @@
 
 ## 👋 Hi, 我是大雄，欢迎来到我的Github ！ 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;NuxtJS+%7C+Vue+3+%7C+TypeScript;Clean+Code+%26+High+Performance;Keep+Learning+%26+Build+Something+Fun" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=0ea5e9" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&color=22c55e" alt="followers" />
-  <img src="https://img.shields.io/github/stars/USERNAME?style=for-the-badge&color=f59e0b" alt="stars" />
-</p>
-
----
-
-### 🧩 个人名片（Slots）
+## 🧩 个人名片（Slots）
 - **昵称**：大雄
 - **邮箱**：2981451773@qq.com 
 - **博客/主页**：https://juejin.cn/user/2173085529944110
 - **所在地/时区**：深圳
 > 想合作？欢迎通过上面的联系方式找我 🙌
 
----
 
-### 🚀 技术栈一览
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,tailwind,vitest,vitest,jest,js,html,css,nodejs,express,prisma,postgres,redis,nginx,aws,vercel,cloudflare,docker,git,github,figma&perline=12" />
-</p>
-
----
-
-### 📊 GitHub 数据看板
-<div align="center">
-
-  <!-- 贡献连击 -->
-  <img height="150" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
-
-  <!-- 总体统计 -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&include_all_commits=true" />
-
-  <!-- 使用语言统计（按仓库权重，不代表熟练度） -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-> 提示：语言卡片统计基于仓库字节数，并非技能熟练度，仅供参考。
-
----
-
-### 📈 近期开发活动
+## 📊 我的 GitHub 数据
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&radius=8" alt="activity-graph" />
+  <img src="https://komarev.com/ghpvc/?username=1111-stu&style=for-the-badge&color=0ea5e9" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/1111-stu?style=for-the-badge&color=22c55e" alt="followers" />
+  <img src="https://img.shields.io/github/stars/1111-stu?style=for-the-badge&color=f59e0b" alt="stars" />
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeanutSplash&layout=compact)
 
 ---
-
-### 📦 代表项目（可自定义）
-<p align="center">
-  <!-- 替换 repo 名称为你想展示的仓库 -->
-  <a href="https://github.com/USERNAME/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=awesome-project&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/USERNAME/nuxt-starter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=nuxt-starter&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 ---
 
