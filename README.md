@@ -7,8 +7,14 @@
 
 ## 👋 Hi, 我是大雄，欢迎来到我的Github ！ 
 
-## 🧩 个人名片（Slots）
-- **昵称**：大雄
+## 🐻 关于我
+- Hi-Offer 独立开发者：https://hi-offer.net/
+- AI 全干工程师 [code:cc，cursor ui:stitch,v0 美术：lovat]
+— 表面洒脱，实则内心拧巴
+— 理性思维，但共情力强
+— 想要做，想去做，执行力超强
+
+## 🧩 个人名片
 - **邮箱**：2981451773@qq.com 
 - **博客/主页**：https://juejin.cn/user/2173085529944110
 - **所在地/时区**：深圳
@@ -18,27 +24,6 @@
 ## 📊 我的 GitHub 数据
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1111-stu&layout=compact)
 
----
-
----
-
-### 📝 更多信息（Slots）
-<details>
-  <summary><b>学习与成长路线</b></summary>
-
-- 2025-Q1：<!-- e.g. 深入 Nuxt 模块生态、构建可复用组件库 -->
-- 2025-Q2：<!-- e.g. Serverless + Edge Functions 实战 -->
-- 2025-Q3：<!-- e.g. 可观测性与性能优化体系 -->
-- 2025-Q4：<!-- e.g. 架构与团队工程化 -->
-</details>
-
-<details>
-  <summary><b>愿景与价值观</b></summary>
-
-- 代码即资产：偏好高可读性与低复杂度  
-- 以终为始：以产品目标反推工程方案  
-- 自动化优先：CI/CD、质量门禁、可观测性  
-</details>
 
 ---
 
