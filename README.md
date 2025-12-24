@@ -8,7 +8,9 @@
 ## 👋 Hi, 我是大雄，欢迎来到我的Github ！ 
 
 ## 🐻 关于我
-- Hi-Offer 独立开发者：https://hi-offer.net/
+- 独立开发者
+  -  https://hi-offer.net/
+  -  https://do-first.vercel.app/  
 - AI 全干工程师
   - **code**: cc,cursor
   - **ui**: stitch,v0
@@ -22,7 +24,7 @@
 - **邮箱**：2981451773@qq.com 
 - **博客/主页**：https://juejin.cn/user/2173085529944110
 - **所在地/时区**：深圳
-> 合作？欢迎通过上面的联系方式找我 🙌
+> 进一步合作，欢迎通过上面的联系方式找我 🙌
 
 
 ## 📊 我的 GitHub 数据
