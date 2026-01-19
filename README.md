@@ -15,8 +15,7 @@
   - **code**: cc,cursor
   - **ui**: stitch,v0
   - **美术**: lovat
-- 🐻 的内心世界
-  - 表面洒脱，实则内心拧巴
+- MBTI：infj/intj
   - 理性思维，但共情力强
   - 想要做，想去做，执行力超强
 
