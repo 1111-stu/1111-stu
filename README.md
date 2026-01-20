@@ -1,36 +1,35 @@
-<!--
-  🎯 使用说明
-  1) 将 USERNAME 全部替换为你的 GitHub 用户名（例如：1111-stu）
-  2) 在“个人名片”与“更多信息”区域填写你的真实信息
-  3) 可按需开启/关闭某些卡片（注释/取消注释）
--->
+# 👋 Hi, I'm 大雄，欢迎来到我的Github ！ 
+## 🐻 About Me 
+- 🚀 **独立开发者**
+  - [hi-offer](https://hi-offer.net/) 
+  - [do-first](https://do-first.vercel.app/) 
+  - [pick-wheel](https://pick-wheel-web.vercel.app/) 
 
-## 👋 Hi, 我是大雄，欢迎来到我的Github ！ 
-
-## 🐻 关于我
-- 独立开发者
-  -  https://hi-offer.net/
-  -  https://do-first.vercel.app/
-  -  https://pick-wheel-web.vercel.app/
-- AI 全干工程师
+- 🤖 **AI 全干工程师**
   - **code**: cc,cursor
   - **ui**: stitch,v0
   - **美术**: lovat
-- MBTI：infj/intj
+  
+- 🧠 **MBTI**: INFJ / INTJ 
   - 理性思维，但共情力强
   - 想要做，想去做，执行力超强
 
-## 🧩 个人名片
-- **邮箱**：2981451773@qq.com 
-- **博客/主页**：https://juejin.cn/user/2173085529944110
-- **所在地/时区**：深圳
-> 进一步合作，欢迎通过上面的联系方式找我 🙌
+## 🚌 Experience
+| 公司 | 职位 | 时间 |
+|------|------|------|
+| 自然选择 | Web全栈工程师 | 2025.09 - 至今 |
+| Xmind | web全栈工程师 | 2024.04 - 2025.07 |
+| 同程旅行 | 前端开发实习 | 2023.10 - 2024.03 |
+| 金山办公 | 前端开发实习 | 2023.04 - 2023.08 |
 
+
+## 🧩 Contact
+| 方式 | 链接 |
+|------|------|
+| 📧 Email | 2981451773@qq.com |
+| 📝 博客 | [掘金](https://juejin.cn/user/2173085529944110) |
+| 📍 base | 深圳 |
 
 ## 📊 我的 GitHub 数据
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1111-stu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1111-stu&layout=compact&hide_border=true&title_color=333&text_color=666&bg_color=fff&icon_color=333)
 
-
----
-
-<!-- END -->
