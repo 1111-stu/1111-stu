@@ -10,7 +10,8 @@
 ## 🐻 关于我
 - 独立开发者
   -  https://hi-offer.net/
-  -  https://do-first.vercel.app/  
+  -  https://do-first.vercel.app/
+  -  https://pick-wheel-web.vercel.app/
 - AI 全干工程师
   - **code**: cc,cursor
   - **ui**: stitch,v0
