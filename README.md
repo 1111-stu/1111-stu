@@ -8,9 +8,9 @@
 - 🤖 **AI 全干工程师**
   - **code**: cc,cursor
   - **ui**: stitch,v0
-  - **美术**: lovat
+  - **美术**: lovart
   
-- 🧠 **MBTI**: INFJ / INTJ 
+- 🌟 **MBTI**: INFJ / INTJ 
   - 理性思维，但共情力强
   - 想要做，想去做，执行力超强
 
