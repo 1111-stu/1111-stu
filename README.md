@@ -28,7 +28,7 @@
 |------|------|
 | 📧 Email | 2981451773@qq.com |
 | 📝 博客 | [掘金](https://juejin.cn/user/2173085529944110) |
-| 📍 base | 深圳 |
+| 📍 Base | 深圳 |
 
 ## 📊 GitHub Data
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1111-stu&layout=compact&hide_border=true&title_color=333&text_color=666&bg_color=fff&icon_color=333)
