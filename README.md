@@ -1,9 +1,9 @@
 # 👋 Hi, I'm 大雄，欢迎来到我的Github ！ 
 ## 🐻 About Me 
 - 🚀 **独立开发者**
-  - [hi-offer](https://hi-offer.net/) 
-  - [do-first](https://do-first.cn.app/) 
-  - [pick-wheel](https://pick-wheel-web.vercel.app/) 
+  - [hi-offer](https://hi-offer.net) 
+  - [do-first](https://do-first.cn) 
+  - [pick-wheel](https://pick-wheel-web.vercel.app) 
 
 - 🤖 **AI 全干工程师**
   - **code**: cc,cursor
