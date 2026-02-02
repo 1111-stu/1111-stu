@@ -2,7 +2,7 @@
 ## 🐻 About Me 
 - 🚀 **独立开发者**
   - [hi-offer](https://hi-offer.net/) 
-  - [do-first](https://do-first.vercel.app/) 
+  - [do-first](https://do-first.cn.app/) 
   - [pick-wheel](https://pick-wheel-web.vercel.app/) 
 
 - 🤖 **AI 全干工程师**
