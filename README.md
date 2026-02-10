@@ -1,35 +1,34 @@
-# 👋 Hi, I'm 大雄，欢迎来到我的Github ！ 
-## 🐻 About Me 
-- 🚀 **独立开发者**
+# 👋 Hi, I'm 大雄  — welcome to my GitHub!
+
+## 🐻 About Me
+- 🚀 **Indie Developer**
   - [hi-offer](https://hi-offer.net) 
   - [do-first](https://do-first.cn) 
   - [pick-wheel](https://pick-wheel-web.vercel.app) 
 
-- 🤖 **AI 全干工程师**
-  - **code**: cc,cursor
-  - **ui**: stitch,v0
-  - **美术**: lovart
-  
-- 🌟 **MBTI**: INFJ / INTJ 
-  - 理性思维，但共情力强
-  - 想要做，想去做，执行力超强
+- 🤖 **AI Full-Stack Engineer**
+  - **Code**: cc, Cursor  
+  - **UI**: Stitch, v0  
+  - **Art**: Lovart  
+
+- 🌟 **MBTI**: INFJ / INTJ  
+  - Rational thinker with strong empathy  
+  - High drive and exceptional execution when I decide to do something  
 
 ## 🚌 Experiences
-| 公司 | 职位 | 时间 |
-|------|------|------|
-| 自然选择 | Web全栈工程师 | 2025.09 - 至今 |
-| Xmind | Web全栈工程师 | 2024.04 - 2025.07 |
-| 同程旅行 | 前端开发实习 | 2023.10 - 2024.03 |
-| 金山办公 | 前端开发实习 | 2023.04 - 2023.08 |
+| Company | Role | Period |
+|--------|------|--------|
+| 自然选择 | Web Full-Stack Engineer | 2025.09 - Present |
+| Xmind | Web Full-Stack Engineer | 2024.04 - 2025.07 |
+| 同程旅行 | Frontend Developer Intern | 2023.10 - 2024.03 |
+| 金山办公 | Frontend Developer Intern | 2023.04 - 2023.08 |
 
-
-## 🧩 Contact me
-| 方式 | 链接 |
+## 🧩 Contact Me
+| Type | Link |
 |------|------|
 | 📧 Email | 2981451773@qq.com |
-| 📝 博客 | [掘金](https://juejin.cn/user/2173085529944110) |
-| 📍 Base | 深圳 |
+| 📝 Blog | [Juejin](https://juejin.cn/user/2173085529944110) |
+| 📍 Base | Shenzhen |
 
 ## 📊 GitHub Data
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1111-stu&layout=compact&hide_border=true&title_color=333&text_color=666&bg_color=fff&icon_color=333)
-
