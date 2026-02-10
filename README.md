@@ -7,8 +7,8 @@
   - [pick-wheel](https://pick-wheel-web.vercel.app) 
 
 - 🤖 **AI Full-Stack Engineer**
-  - **Code**: cc, Cursor  
-  - **UI**: Stitch, v0  
+  - **Code**: CC,Codx,Cursor  
+  - **UI**: Stitch, V0  
   - **Art**: Lovart  
 
 - 🌟 **MBTI**: INFJ / INTJ  
