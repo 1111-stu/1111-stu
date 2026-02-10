@@ -7,7 +7,7 @@
   - [pick-wheel](https://pick-wheel-web.vercel.app) 
 
 - 🤖 **AI Full-Stack Engineer**
-  - **Code**: CC,Codx,Cursor  
+  - **Code**: CC, Codx, Cursor  
   - **UI**: Stitch, V0  
   - **Art**: Lovart  
 
