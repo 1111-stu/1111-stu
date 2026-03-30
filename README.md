@@ -2,8 +2,8 @@
 
 ## 🐻 About Me
 - 🚀 **Indie Developer**
+- - [do-first](https://do-first.cn) 
   - [hi-offer](https://hi-offer.net) 
-  - [do-first](https://do-first.cn) 
   - [pick-wheel](https://pick-wheel-web.vercel.app) 
 
 - 🤖 **AI Full-Stack Engineer**
