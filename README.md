@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 大雄  — welcome to my GitHub!
+# 👋 Hi, I'm 大雄  — Welcome to my GitHub!
 
 ## 🐻 About Me
 - 🚀 **Indie Developer**
