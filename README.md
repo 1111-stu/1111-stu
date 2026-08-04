@@ -1,18 +1,18 @@
 # 👋 Hi, I'm 大雄  — Welcome to my GitHub!
 
 ## 🐻 About Me
-- 🚀 **Indie Developer**
-- - [do-first](https://apps.apple.com/us/app/do-first-eisenhower-matrix/id6755933357)
+🚀 **Indie Developer**
+  - [do-first](https://apps.apple.com/us/app/do-first-eisenhower-matrix/id6755933357)
   - [pill-bell](https://apps.apple.com/us/app/%E8%8D%AF%E5%B0%8F%E9%93%83-%E5%90%83%E8%8D%AF%E6%8F%90%E9%86%92/id6792621487)
   - [hi-offer](https://hi-offer.net) 
   - [pick-wheel](https://apps.apple.com/cn/app/pickwheel-%E5%B0%8F%E5%86%B3%E5%AE%9A/id6757254395) 
 
-- 🤖 **AI Full-Stack Engineer**
+🤖 **AI Full-Stack Engineer**
   - **Code**: CC, Codex, Cursor  
   - **UI**: Stitch, V0  
   - **Art**: Lovart  
 
-- 🌟 **MBTI**: INFJ / INTJ  
+🌟 **MBTI**: INFJ / INTJ  
   - Rational thinker with strong empathy  
   - High drive and exceptional execution when I decide to do something  
 
