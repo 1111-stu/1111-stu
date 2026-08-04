@@ -2,7 +2,7 @@
 
 ## 🐻 About Me
 - 🚀 **Indie Developer**
-- - [do-first](https://apps.apple.com/us/app/do-first-eisenhower-matrix/id6755933357) 
+- - [do-first](https://apps.apple.com/us/app/do-first-eisenhower-matrix/id6755933357)  
   - [hi-offer](https://hi-offer.net) 
   - [pick-wheel](https://apps.apple.com/cn/app/pickwheel-%E5%B0%8F%E5%86%B3%E5%AE%9A/id6757254395) 
 
