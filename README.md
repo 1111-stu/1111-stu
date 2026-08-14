@@ -28,7 +28,8 @@
 | Type | Link |
 |------|------|
 | 📧 Email | 2981451773@qq.com |
-| 📝 Blog | [Juejin](https://juejin.cn/user/2173085529944110) |
+| 📝 Blog | [HI 大雄](https://juejin.cn/user/2173085529944110) |
+| 📕 Xiaohongshu | [Hi大雄](https://www.xiaohongshu.com/user/profile/6516a50f000000002402cee4) |
 | 📍 Base | Shenzhen |
 
 ## 📊 GitHub Data
