@@ -2,10 +2,10 @@
 
 ## 🐻 About Me
 🚀 **Indie Developer**
-  - [do-first](https://apps.apple.com/us/app/do-first-eisenhower-matrix/id6755933357)
-  - [pill-bell](https://apps.apple.com/us/app/%E8%8D%AF%E5%B0%8F%E9%93%83-%E5%90%83%E8%8D%AF%E6%8F%90%E9%86%92/id6792621487)
-  - [hi-offer](https://hi-offer.net) 
-  - [pick-wheel](https://apps.apple.com/cn/app/pickwheel-%E5%B0%8F%E5%86%B3%E5%AE%9A/id6757254395) 
+  - [Do First](https://apps.apple.com/us/app/do-first-eisenhower-matrix/id6755933357) — Turns overloaded to-dos into a four-quadrant list. Live on iOS and macOS.
+  - [PillBell](https://apps.apple.com/us/app/%E8%8D%AF%E5%B0%8F%E9%93%83-%E5%90%83%E8%8D%AF%E6%8F%90%E9%86%92/id6792621487) — A reminder for people who forget their pills. Reached Top 50 on China's Medical Free chart.
+  - [Hi Offer](https://hi-offer.net) — A job-search site to refine resumes and prep for interviews.
+  - [PickWheel](https://apps.apple.com/cn/app/pickwheel-%E5%B0%8F%E5%86%B3%E5%AE%9A/id6757254395) — A spinner for small decisions that aren't worth overthinking.
 
 🤖 **AI Full-Stack Engineer**
   - **Code**: CC, Codex, Cursor  
